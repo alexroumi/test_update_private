@@ -1,1 +1,0 @@
-Start-Process ./updater.exe -Verb runAs
